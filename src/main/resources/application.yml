@@ -1,0 +1,5 @@
+server:
+  port: 8080
+supabase:
+  url: https://wknwpcngdtsefgblchsy.supabase.co
+  key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndrbndwY25nZHRzZWZnYmxjaHN5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUwMjg2NTcsImV4cCI6MjA2MDYwNDY1N30.SnYmF4pQ3N10yKd5cvsrtSiXqch9qgLBGDxbe3dJonw
